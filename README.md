@@ -29,5 +29,13 @@ This project is a simple server-client-based file sharing system developed in Py
 ```bash
 git clone https://github.com/your-username/LAN-File-Sharing.git
 cd LAN-File-Sharing
-
-### Start the Server
+```
+### 🛠️ 2. Start the Server
+```bash
+python3 server.py
+```
+### 📤 3. Run the Client (in another terminal)
+```bash
+python3 client.py
+```
+📁 4. Select and Send File
